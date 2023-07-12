@@ -1,0 +1,1 @@
+el desarrollo en cascada es conveniente para proyectos estables donde tienen los requisitos clarosy no van a cambiar a lo largo del proceso del desarrollo
